@@ -1,4 +1,4 @@
-VERSION = (0, 1, 6, 'pre3')
+VERSION = (0, 1, 6, 'pre4')
 
 def version():
     return '%s.%s.%s-%s' % VERSION
