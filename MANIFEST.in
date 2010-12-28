@@ -1,2 +1,3 @@
-include README LICENSE pendulum/templates/pendulum/* pendulum/media/img/* pendulum/media/css/* pendulum/media/js/*
-recursive-include pendulum *.py
+include README.rst LICENSE
+recursive-include pendulum *.*
+recursive-exclude pendulum *.pyc .*.swp
