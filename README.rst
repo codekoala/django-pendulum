@@ -40,7 +40,7 @@ easy_install
 ------------
 
 You can download the package from the `CheeseShop
-<http://pypi.python.org/pypi/django-pendulum/`_ or use::
+<http://pypi.python.org/pypi/django-pendulum/>`_ or use::
 
     easy_install django-pendulum
 
